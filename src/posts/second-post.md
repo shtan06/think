@@ -1,8 +1,10 @@
 ---
-title: This is my second post
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+title: Managing Investment Data at Enterprise Level
+description: End user information requirements, sourcing, configuration,
+  integration, governance, integrity, quality, speed, accuracy, completeness,
+  conventions, rules, code, etc. Things to consider about data.
+author: Chen Xihui
 date: 2020-09-02
-author: Surjith S M
 tags:
   - number-2
 ---
