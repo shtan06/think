@@ -8,6 +8,6 @@ links:
   - title: Blog
     url: /blog
     desc: Placeholder for my draft blogs.
-  - title: Tailwind CSS
-    url: https://tailwindcss.com/
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: My Profile
+    url: https://middle-office.netlify.app
+    desc: My other website.
