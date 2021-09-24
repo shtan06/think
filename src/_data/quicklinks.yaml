@@ -1,14 +1,13 @@
----
 links:
   - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
+    url: https://www.netlifycms.org/
     desc: Open source content management for your Git workflow
   - title: Eleventy
-    url: "https://www.11ty.dev/"
+    url: https://www.11ty.dev/
     desc: Eleventy is a simpler static site generator.
   - title: Blog
-    url: "/blog"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
+    url: /blog
+    desc: Placeholder for my draft blogs.
   - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
+    url: https://tailwindcss.com/
     desc: A utility-first CSS framework for rapidly building custom designs.
