@@ -9,6 +9,10 @@ tags:
   - center
   - right
 ---
+```latex
+$$c/f$$
+```
+
 # This is a Heading h1
 
 ## This is a Heading h2
